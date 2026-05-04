@@ -30,7 +30,7 @@ Users can dynamically filter data by year to explore trends and aggregated KPIs.
 - Profit by Year
 - Quantity by Year
 
-  ## Key Insights
+## Key Insights
 
 - Sales show steady growth across years except a slight drop in year 2021.
 - Profit margin also increases every year.
