@@ -21,5 +21,11 @@ This project is an interactive Tableau dashboard that analyzes yearly business p
 - Profit by Year
 - Quantity by Year
 
+## Live Interactive Dashboard
+
+View the dashboard on Tableau Public:
+
+[Open Dashboard](https://public.tableau.com/views/SalesPerformance_17779075805800/SalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## File
 SalesPerformance.twbx
