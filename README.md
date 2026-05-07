@@ -33,7 +33,7 @@ Users can dynamically filter data by year to explore trends and aggregated KPIs.
 ## Key Insights
 
 - Sales show steady growth across years except a slight drop in year 2021.
-- Profit margin also increases every year.
+- Profit margin also increases every year excep a slight drop in year 2023.
 - Quantity sold correlates strongly with overall revenue trends.
 
 ## Live Interactive Dashboard
